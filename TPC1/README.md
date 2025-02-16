@@ -40,8 +40,8 @@ Todas as páginas principais incluem uma opção para regressar à página inici
 
 O código-fonte pode ser encontrado no seguinte repositório:
 
-📌 [**Script em python para editar o json original**]()
+📌 [**Script em python para editar o json original**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC1/json_editor.py)
 
-📌 [**Implementação do servidor em node.js**]()
+📌 [**Implementação do servidor em node.js**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC1/server.js)
 
 
