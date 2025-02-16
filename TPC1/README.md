@@ -1,7 +1,7 @@
 # TPC1 - A Oficina
 
 **Aluno:** Salvador Duarte Magalhães Barreto - *A104520*  
-![Alt text](image.PNG)
+![Alt text](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/image.png)
 
 ## Descrição  
 
