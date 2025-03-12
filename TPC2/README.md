@@ -1,4 +1,4 @@
-# TPC1 - Escola de Música 
+# TPC2 - Escola de Música 
 
 **Aluno:** Salvador Duarte Magalhães Barreto - *A104520*  
 ![Alt text](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/image.png)
