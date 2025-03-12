@@ -6,4 +6,5 @@ Este repositório serve o propóstido de registar e disponibilizar todos os "TPC
 
 Tarefas semanais:
 - [TPC1](https://github.com/R7ptide/EngWeb2025-A104520/tree/main/TPC1)
+- [TPC2](https://github.com/R7ptide/EngWeb2025-A104520/tree/main/TPC2)
 
