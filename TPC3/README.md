@@ -46,4 +46,4 @@ Em relação aos templates disponibilizados inicialmente, adicionei uma nova fun
 O código-fonte pode ser encontrado no seguinte repositório:  
 
 📌 [**Servidor em node.js**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC3/alunos_server_skeleton.js) 
-📌 [**Geração das páginas HTML**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC2/templates.js)   
+📌 [**Geração das páginas HTML**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC3/templates.js)   
