@@ -5,23 +5,6 @@
 
 ## Descrição  
 
-
-## Implementação  
-
-
-
-## Código-Fonte  
-
-O código-fonte pode ser encontrado no seguinte repositório:  
-
-  
-# TPC4 - Filmes 
-
-**Aluno:** Salvador Duarte Magalhães Barreto - *A104520*  
-![Alt text](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/image.png)
-
-## Descrição  
-
 Este trabalho consistiu no desenvolvimento de uma aplicação web para gestão de uma lista de filmes, utilizando **Express**, **Node.js** e **Pug** (usando **w3.css**) como motor de templates . A aplicação permite:
 
 - Visualizar uma lista de filmes.
