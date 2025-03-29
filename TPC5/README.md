@@ -71,7 +71,7 @@ O código-fonte pode ser encontrado no seguinte repositório:
 
 📌 [**app.js**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC5/apialunos/app.js)   
 📌 [**Modelo**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC5/apialunos/models/aluno.js)
-📌 [**Controlador**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC5/apialunos/controllers/aluno.js)   
-📌 [**Rotas**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC5/apialunos/routes/aluno.js) 
+📌 [**Controlador**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC5/apialunos/controllers/alunos.js)   
+📌 [**Rotas**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC5/apialunos/routes/alunos.js) 
 📌 [**Front-end**](https://github.com/R7ptide/EngWeb2025-A104520/blob/main/TPC5/apialunos/views) 
 
